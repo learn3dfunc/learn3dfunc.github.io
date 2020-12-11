@@ -11,6 +11,11 @@ Here you can find course notes, course slides, and a course video recording.
 - [Slides (PDF, 54M)](./slides.pdf)
 - [Course video (MP4, 1.1G)](./course.mp4)
 
+### References
+
+This course is an updated version of the material in the following EuroGraphics 2018 STAR:
+- [Functionality Representations and Applications for Shape Analysis](http://msavva.github.io/files/func_star.pdf)
+
 ### Instructors
 
 [Ruizhen Hu](http://csse.szu.edu.cn/staff/ruizhenhu/) | [Manolis Savva](http://msavva.github.io/) | [Oliver van Kaick](https://people.scs.carleton.ca/~olivervankaick/)
