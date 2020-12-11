@@ -9,7 +9,7 @@ Here you can find course notes, course slides, and a course video recording.
 
 - [Course notes (PDF, 4.2M)](./course_notes.pdf)
 - [Slides (PDF, 54M)](./slides.pdf)
-- [Course video (MP4, 1.1G)](./course.mp4)
+- [Course video (MP4, 189M)](https://github.com/learn3dfunc/learn3dfunc.github.io/raw/master/course.mp4)
 
 ### References
 
